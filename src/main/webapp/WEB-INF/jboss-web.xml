@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>rest-sample</context-root>
+</jboss-web>
